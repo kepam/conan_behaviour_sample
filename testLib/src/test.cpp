@@ -7,6 +7,7 @@
 
 extern void hello();
 void test(){
-    std::cout << "test" << std::endl;
+    std::cout << "[testLib]" << std::endl;
+    std::cout << "VER is " << VER << std::endl;
     hello();
 }

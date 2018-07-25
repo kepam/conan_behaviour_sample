@@ -7,3 +7,4 @@
 #endif
 
 HELLO_EXPORT void hello();
+constexpr static int VER = 100;
